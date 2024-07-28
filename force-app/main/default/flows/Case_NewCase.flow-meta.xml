@@ -10,7 +10,7 @@
             <assignToReference>case.ContactId</assignToReference>
             <operator>Assign</operator>
             <value>
-                <elementReference>recordId</elementReference>
+                <elementReference>sourceRecordId</elementReference>
             </value>
         </assignmentItems>
         <assignmentItems>
@@ -140,7 +140,7 @@
         <isOutput>false</isOutput>
     </variables>
     <variables>
-        <name>recordId</name>
+        <name>sourceRecordId</name>
         <dataType>String</dataType>
         <isCollection>false</isCollection>
         <isInput>true</isInput>
