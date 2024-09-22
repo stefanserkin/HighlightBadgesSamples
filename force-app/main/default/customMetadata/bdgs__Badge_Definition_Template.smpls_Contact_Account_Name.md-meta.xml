@@ -60,7 +60,7 @@
     </values>
     <values>
         <field>bdgs__Highlight_Badges_Starter_Pack__c</field>
-        <value xsi:type="xsd:string">Ticketed_Events_Badges</value>
+        <value xsi:type="xsd:string">smpls_Ticketed_Events_Badges</value>
     </values>
     <values>
         <field>bdgs__Icon_Name__c</field>

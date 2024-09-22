@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <label>View Account</label>
+    <label>View Ticket</label>
     <protected>false</protected>
     <values>
         <field>bdgs__Active__c</field>
@@ -8,11 +8,11 @@
     </values>
     <values>
         <field>bdgs__Badge_Definition_Template__c</field>
-        <value xsi:type="xsd:string">Contact_Account_Name</value>
+        <value xsi:type="xsd:string">smpls_Account_Today_s_Tickets</value>
     </values>
     <values>
         <field>bdgs__Description__c</field>
-        <value xsi:type="xsd:string">Go to the related account record</value>
+        <value xsi:type="xsd:string">Go to the related ticket order item record</value>
     </values>
     <values>
         <field>bdgs__Flow_API_Name__c</field>
@@ -24,7 +24,7 @@
     </values>
     <values>
         <field>bdgs__Icon_Name__c</field>
-        <value xsi:type="xsd:string">standard:account</value>
+        <value xsi:type="xsd:string">utility:preview</value>
     </values>
     <values>
         <field>bdgs__Icon_Position__c</field>
@@ -40,7 +40,7 @@
     </values>
     <values>
         <field>bdgs__Label__c</field>
-        <value xsi:type="xsd:string">View Account</value>
+        <value xsi:type="xsd:string">View Ticket</value>
     </values>
     <values>
         <field>bdgs__Navigation_Type__c</field>
