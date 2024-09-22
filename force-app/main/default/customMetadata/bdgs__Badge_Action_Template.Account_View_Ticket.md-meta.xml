@@ -40,7 +40,7 @@
     </values>
     <values>
         <field>bdgs__Label__c</field>
-        <value xsi:type="xsd:string">View Account</value>
+        <value xsi:type="xsd:string">View Ticket</value>
     </values>
     <values>
         <field>bdgs__Navigation_Type__c</field>
