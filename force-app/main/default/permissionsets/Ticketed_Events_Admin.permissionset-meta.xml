@@ -129,10 +129,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <tabSettings>
-        <tab>Highlight_Badge_Definition_Importer</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
         <tab>Ticket_Order_Item__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
