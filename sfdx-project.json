@@ -4,12 +4,12 @@
       "path": "force-app",
       "default": true,
       "package": "Highlight Badges Samples",
-      "versionName": "ver 0.3",
-      "versionNumber": "0.3.0.NEXT",
+      "versionName": "ver 0.4",
+      "versionNumber": "0.4.0.NEXT",
       "versionDescription": "",
       "dependencies": [
         {
-          "package": "04tPg0000002NdFIAU"
+          "package": "04tPg000000ETN7IAO"
         }
       ]
     }
@@ -17,7 +17,7 @@
   "name": "HighlightBadgesSamples",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0",
+  "sourceApiVersion": "64.0",
   "packageAliases": {
     "Highlight Badges Samples": "0HoDn000000L0MoKAK",
     "Highlight Badges Samples@0.1.0-1": "04tDn0000003oysIAA",
