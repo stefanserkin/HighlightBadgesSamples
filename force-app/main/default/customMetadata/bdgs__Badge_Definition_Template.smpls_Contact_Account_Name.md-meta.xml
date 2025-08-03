@@ -59,6 +59,10 @@
         <value xsi:type="xsd:string">AccountId != null</value>
     </values>
     <values>
+        <field>bdgs__Highlight_Badge_Definition_Name__c</field>
+        <value xsi:type="xsd:string">Contact: Account Name</value>
+    </values>
+    <values>
         <field>bdgs__Highlight_Badges_Starter_Pack__c</field>
         <value xsi:type="xsd:string">smpls_Ticketed_Events_Badges</value>
     </values>

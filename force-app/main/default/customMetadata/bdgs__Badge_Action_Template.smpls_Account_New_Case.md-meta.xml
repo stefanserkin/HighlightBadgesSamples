@@ -23,6 +23,10 @@
         <value xsi:type="xsd:string">Screen Flow</value>
     </values>
     <values>
+        <field>bdgs__Highlight_Badge_Action_Name__c</field>
+        <value xsi:type="xsd:string">New Case</value>
+    </values>
+    <values>
         <field>bdgs__Icon_Name__c</field>
         <value xsi:type="xsd:string">utility:new</value>
     </values>

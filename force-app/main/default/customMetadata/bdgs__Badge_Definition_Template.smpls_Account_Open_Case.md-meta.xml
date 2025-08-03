@@ -59,6 +59,10 @@
         <value xsi:type="xsd:string">IsClosed = false</value>
     </values>
     <values>
+        <field>bdgs__Highlight_Badge_Definition_Name__c</field>
+        <value xsi:type="xsd:string">Account: Open Case</value>
+    </values>
+    <values>
         <field>bdgs__Highlight_Badges_Starter_Pack__c</field>
         <value xsi:type="xsd:string">smpls_Service_Cloud_Badges</value>
     </values>

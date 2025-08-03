@@ -23,6 +23,10 @@
         <value xsi:type="xsd:string">Autolaunched Flow</value>
     </values>
     <values>
+        <field>bdgs__Highlight_Badge_Action_Name__c</field>
+        <value xsi:type="xsd:string">Clone Case</value>
+    </values>
+    <values>
         <field>bdgs__Icon_Name__c</field>
         <value xsi:type="xsd:string">action:clone</value>
     </values>
